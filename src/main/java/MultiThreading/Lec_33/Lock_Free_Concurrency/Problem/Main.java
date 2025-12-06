@@ -1,4 +1,4 @@
-package MultiThreading.Lec_33.Problem;
+package MultiThreading.Lec_33.Lock_Free_Concurrency.Problem;
 
 public class Main {
 

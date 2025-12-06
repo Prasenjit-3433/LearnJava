@@ -1,8 +1,8 @@
-package MultiThreading.Lec_33.Problem;
+package MultiThreading.Lec_33.Lock_Free_Concurrency.Problem;
 
 public class SharedResource {
 
-    int counter;
+    int counter = 0;
 
     public void increment() {
         // not atomic
